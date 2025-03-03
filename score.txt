@@ -1,0 +1,4 @@
+id_student1   70
+id_student2   75
+id_student3   54
+id_student4   45
